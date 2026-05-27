@@ -13,7 +13,7 @@ Laravel・Django・FastAPI を用いたバックエンド開発、
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,php,laravel,python,django,fastapi,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,php,laravel,python,django,fastapi,mysql,git" />
 
 <br><br>
 
@@ -67,18 +67,6 @@ Laravel・Django・FastAPI を用いたバックエンド開発、
 - Modern Architecture
 - Performance Optimization
 - Clean Architecture
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=EmpowerHerDev&show_icons=true&theme=rose_pine&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpowerHerDev&layout=compact&theme=rose_pine&hide_border=true" />
-
-</div>
 
 ---
 
