@@ -35,38 +35,12 @@ Laravel・Django・FastAPI を用いたバックエンド開発、
 
 ---
 
-## 💻 Tech Stack
-
-### Frontend
-- React / Next.js
-- Vue / Nuxt.js
-- JavaScript / TypeScript
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- PHP / Laravel
-- Python
-- Django
-- FastAPI
-- REST API
-- MySQL / SQL
-
-### AI / Tools
-- OpenAI API
-- Prompt Engineering
-- AI Workflow Automation
-- GraphQL
-- Git / GitHub
-
----
-
 ## 🌱 Currently Learning
 
-- AI Application Development
-- Modern Architecture
-- Performance Optimization
-- Clean Architecture
+- AIアプリケーション開発
+- モダンアーキテクチャ設計
+- パフォーマンス最適化
+- 保守性を意識した設計
 
 ---
 
